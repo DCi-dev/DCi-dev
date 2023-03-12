@@ -25,7 +25,7 @@
 <a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="React Query" width="40" height="40"/> </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6LfYwHeK--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1608/0f93b179-76bf-4ee7-a838-e8222fbef062.png" alt="Prisma ORM" width="40" height="40"/> </a>
 <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth" width="40" height="40"/> </a>
-<a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DCi-dev/DCi-dev/blob/main/img/react-form-hook-icon.svg" alt="React Hook Form" width="40" height="40"/> </a>
+<a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DCi-dev/DCi-dev/blob/main/img/react-form-hook.png" alt="React Hook Form" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
