@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm CDi</h1>
 <h3 align="center">Front-End Developer | ReactJS / NextJS</h3>
 
-<p align="left"> <a href="https://twitter.com/cdi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/cdi_dev?logo=twitter&style=for-the-badge" alt="cdi_dev" /></a> </p>
+  ### Connect with me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/CDi_dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/CDi_dev) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=141617)](https://discord.com/users/CDi#4953)
+
+  
 
 - 👨‍💻 All of my projects are available at [https://cdi.dev](https://cdi.dev)
 
@@ -42,13 +47,6 @@
   </tr>
   
   </table>
-  
-  ### Connect with me
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/CDi_dev)   
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/CDi_dev) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=141617)](https://discord.com/users/CDi#4953)
-
-  
   
 
