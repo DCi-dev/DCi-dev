@@ -20,6 +20,7 @@
 <table width="960px">
 <tr>
 <td valign="top" align="center" width="50%">
+  
 ### Projects
 
 [![Body Fuel](https://github-readme-stats.vercel.app/api/pin/?username=DCi-dev&repo=body-fuel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/DCi-dev/body-fuel)
@@ -29,11 +30,15 @@
 </td>
 <td valign="top" align="center" width="50%">
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dci-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="dci-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dci-dev&show_icons=true&theme=dark&locale=en" alt="dci-dev" /></p>
+### Github Stats
   
+[![Github Stats of CDi](https://github-readme-stats.vercel.app/api?username=DCi-dev&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github-readme-stats.vercel.app/api?username=DCi-dev&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)
+
+ ### Language Stats
+
+[![Profile Stats of Milk](https://github-readme-stats.vercel.app/api/top-langs/?username=DCi-dev&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&card_width=480&text_bold=true&langs_count=10&hide_border=true&hide_title=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&card_width=480&text_bold=true&langs_count=10&hide_border=true&hide_title=true)
+ 
+
   
   </td>
   </table>
