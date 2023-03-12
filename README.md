@@ -38,8 +38,21 @@
 
 [![Profile Stats of Milk](https://github-readme-stats.vercel.app/api/top-langs/?username=DCi-dev&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&card_width=480&text_bold=true&langs_count=10&hide_border=true&hide_title=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&card_width=480&text_bold=true&langs_count=10&hide_border=true&hide_title=true)
  
-
-  
   </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" align="center" width="100%">
+
+### Connect with me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/CDi_dev)   
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/CDi_dev) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=141617)](https://discord.com/users/CDi#4953)
+
+</td>
+  </tr>
+  
+  
   </table>
 
