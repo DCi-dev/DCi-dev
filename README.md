@@ -29,7 +29,6 @@
 <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://github.com/DCi-dev/DCi-dev/blob/main/img/react-form-hook.png" alt="React Hook Form" width="40" height="40"/> </a>
 <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" width="40" height="40" /></a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Bash" width="40" height="40" /></a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" width="40" height="40" /></a>
