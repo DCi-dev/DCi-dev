@@ -8,7 +8,7 @@
 - 📫 How to reach me **contact@cdi.dev**
 
 ### Connect with me
- 
+
 [![Website](https://img.shields.io/badge/Website-%237289DA.svg?&style=for-the-badge&logoColor=white&color=141617)](https://cdi.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&style=for-the-badge&logoColor=white&color=141617)](https://www.linkedin.com/in/dan-cristian-ilie/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/CDi_dev) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=141617)](https://discord.com/users/CDi#4953)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,8 +30,9 @@
 <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" width="40" height="40" /></a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-</div>
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
 
+</div>
 
 <br/>  
 <table width="960px">
@@ -48,14 +49,13 @@
 <td valign="top" align="center" width="50%">
 
 ### Github Stats
-  
+
 [![Github Stats of CDi](https://github-readme-stats.vercel.app/api?username=DCi-dev&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github-readme-stats.vercel.app/api?username=DCi-dev&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)
 
- ### Language Stats
+### Language Stats
 
 [![Profile Stats of Milk](https://github-readme-stats.vercel.app/api/top-langs/?username=DCi-dev&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&card_width=480&text_bold=true&langs_count=10&hide_border=true&hide_title=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&card_width=480&text_bold=true&langs_count=10&hide_border=true&hide_title=true)
- 
+
   </td>
   </tr>
   </table>
-
