@@ -1,7 +1,7 @@
 [![Hi! I’m CDi!](https://github.com/DCi-dev/DCi-dev/blob/main/img/CDi-readme-1.png)](https://cdi.dev)
 
 <h1 align="center">Hi 👋, I'm CDi</h1>
-<h3 align="center">Front-End Developer | ReactJS / NextJS</h3>
+<h3 align="center">Full-Stack Developer | ReactJS / NextJS | Express / NestJs / Laravel</h3>
 
 - 👨‍💻 All of my projects are available at [cdi.dev](https://cdi.dev)
 
