@@ -36,16 +36,7 @@
 <br/>  
 <table width="960px">
 <tr>
-<td valign="top" align="center" width="50%">
-  
-### Projects
-
-[![Body Fuel](https://github-readme-stats.vercel.app/api/pin/?username=DCi-dev&repo=body-fuel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/DCi-dev/body-fuel)
-
-[![Pet Store](https://github-readme-stats.vercel.app/api/pin/?username=DCi-dev&repo=t3-pet-store&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/DCi-dev/t3-pet-store)
-
-</td>
-<td valign="top" align="center" width="50%">
+<td valign="top" align="center" width="100%">
 
 ### Github Stats
 
